@@ -1,1 +1,1 @@
-nothing here yet just getting used to git commands or so i thought
+live lab sessions for web design and programming
